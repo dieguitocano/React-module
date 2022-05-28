@@ -5,11 +5,6 @@ import './App.css'
 function App() {
 
 
-  //Crear un estado
-  // Generar una vista del estado
-  // Crear dos botones, uno que aumente y 
-  //otro que disminuya en 1 el estado
-
   const [counter, setCounter] = useState(0)
   
   const click = () => setCounter(counter +1)
