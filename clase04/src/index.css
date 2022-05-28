@@ -1,0 +1,32 @@
+.individual-lamp{
+  display: flex;
+  gap: 30px;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.lamp{
+  width: 200px;
+  aspect-ratio: 1;
+  border-radius: 50%;
+  background-color: gray;
+}
+
+.on{
+  background-color: gray;
+}
+
+.off{
+  background-color: yellow;
+}
+
+.lamp-btn {
+  font-size: 25px;
+}
+
+.lamp-and-btn{
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  width: 200px;
+}

@@ -1,0 +1,17 @@
+:root {
+  background-color: greenyellow;
+}
+
+
+.App {
+  text-align: center;
+  
+}
+
+
+
+button {
+  font-size: calc(10px + 2vmin);
+  background-color: blueviolet;
+  color: white;
+}
