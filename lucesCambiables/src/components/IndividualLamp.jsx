@@ -9,10 +9,6 @@ const IndividualLamp = () => {
       <Lamp />
       <Lamp />
       <Lamp />
-      <Lamp />
-      <Lamp />
-      <Lamp />
-      <Lamp />
       
     </div>
   )

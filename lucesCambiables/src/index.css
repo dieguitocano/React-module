@@ -14,7 +14,15 @@ body {
   align-items: center;
   padding: 1% 10%;
   justify-content: center;
-  
+}
+
+.global-lamp {
+  display: flex;
+  gap: 50px;
+  flex-wrap: wrap;
+  align-items: center;
+  padding: 1% 10%;
+  justify-content: center;
 }
 
 .lamp-and-btn{
